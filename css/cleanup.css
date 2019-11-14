@@ -4,7 +4,7 @@
   display: none;
 }
 
-#tag-2:first-child {
+#tag-2:nth-child() {
   display: none;
 }
 
